@@ -75,7 +75,7 @@ const MainContent = () => {
       {/* BLOG HEADER START */}
       <div
         id="contentHeader"
-        className="grid grid-rows-2 grid-cols-4 gap-1 bg-red-500 box-border"
+        className="grid grid-rows-2 grid-cols-4 gap-1 box-border"
       >
         <div className="row-span-2 col-span-2 overflow-hidden relative group">
           <img
